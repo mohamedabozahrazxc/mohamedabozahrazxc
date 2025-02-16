@@ -1,6 +1,7 @@
 - 👋 Hi, I’m mohamed monir
 - 👀 I’m interested in AI 
-- 🌱 I’m currently learning AI and iot 
+- 🌱 I’m currently learning AI and iot
+- - 🌱 I’m currently learning WEB and .NET  
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mohamedabozahrazxc@gmail.com
 
